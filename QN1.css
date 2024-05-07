@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.Google{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+}
+.g{
+    color: blue;
+    
+}
+.o1 {
+    color: red;
+    
+}
+.o2 {
+    color: yellow;
+    
+}
+.l {
+    color: green;
+    
+}
+.e {
+    color: red;
+
+}
